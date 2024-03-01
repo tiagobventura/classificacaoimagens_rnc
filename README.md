@@ -4,7 +4,7 @@
 
 <h3>Link do tutorial https://www.tensorflow.org/tutorials/images/classification?hl=pt-br</h3>
 
-<p>As imagens utilizadas são baixadas do repositório no formato zip, por código será descompactadas.</p>
+<h3><p>As imagens utilizadas são baixadas do repositório no formato zip, na parte inicial do código serão descompactadas e as pastas serão armazenadas no diretório do arquivo do projeto.</p></h3>
 
 <h3>IDE utilizada: Spyder</h3>
 <h3>Python: 3.11</h3>
